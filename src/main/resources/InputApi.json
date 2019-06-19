@@ -1,0 +1,16 @@
+{
+	"id": "id",
+	"type": "EVENT_1",
+	"object": ["CLIENTE, EDIFICIO"],
+	"source": "SOURCE",
+	"contextObject": {
+		"property_string_required": "property_string_required_value",
+		"property_string_internal": "property_string_internal_value",
+		"property_number": "55",
+		"property_boolean": "true",
+		"property_date": "2007-12-03",
+		"property_date_time": "2007-12-03T10:15:30",
+		"property_time": "10:15:30",
+		"property_string_sub_sub_template": "property_string_sub_sub_template"
+	}
+}
